@@ -1,0 +1,75 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    overflow-x: hidden;
+}
+#terapias{
+    background-color: rgb(236, 238, 153);
+    padding-top: 4rem;
+}
+.principal{
+    font-size: 1.5em;
+}
+.banner, .img, #homeopatia, #acupuntura, #digitopuntura, #reflexologia, #osteopatia, #fitoterapia,#tarjetas, #imagenes, #contacto{
+    padding-top: 4.5rem;
+}
+#tarjetas{
+    background-color: rgb(9, 71, 69);
+}
+.card{
+    background-color: rgb(236, 238, 153);
+}
+h5{
+    font-size: 1.5em;
+    padding: 0.4em 0;
+}
+.boton{
+    font-size: 1.1em;
+}
+.boton:hover{
+    background-color: rgba(9, 71, 69, 0.253);
+}
+.banner2{
+    background-color: rgb(9, 71, 69);
+}
+.subt{
+    text-align: center;
+    font-style: italic;
+    font-size: 1.8em;
+    color: rgb(236, 238, 153);
+    padding: 0.5em 0;
+}
+#imagenes{
+    background-color: rgb(236, 238, 153);
+    padding-bottom: 0.5em;
+}
+.gal-img{
+    color: rgb(9, 71, 69);
+}
+#contacto{
+    background-color: rgb(9, 71, 69);
+    color: rgb(236, 238, 153);
+}
+.tituloseccion{
+    font-weight: bold;
+    font-size: 2.5em;
+}
+.btn-env{
+    background-color: rgb(236, 238, 153);
+    color: rgb(9, 71, 69);
+}
+.btn-env:hover{
+    background-color: rgba(236, 238, 153, 0.801);
+}
+.redes{
+    margin: 1em 0;
+    color: rgb(9, 71, 69);
+}
+footer{
+    background-color: rgb(236, 238, 153);
+    color: rgb(9, 71, 69);
+    font-size: 1.3em;
+}
+.mail{
+    color: rgb(9, 71, 69);
+    font-size: 1em;
+}
